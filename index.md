@@ -34,6 +34,10 @@ I am interested in artificial intelligence as well, and I would be happy to enga
 I am interested in artificial intelligence. Currently, I am focusing on projects related to virtual staining and explainable AI.
 
 <br>
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?jyf"
+border="0" alt="page counter"></a>
+<br><a href="https://www.easycounter.com/">Free Hit Counters</a>
 
 ---
 
