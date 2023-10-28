@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yifan Jia (贾一凡)**.
 
-I am a junior student studying in the School of Information Science and Engineering(Chongxin College), Shandong University in China,supervised by Prof. Zhi Liu.
+I am a  student studying in the School of Information Science and Engineering(Chongxin College), Shandong University in China,supervised by Prof. Zhi Liu.
 
 I am interested in artificial intelligence as well, and I would be happy to engage in a conversation with you.
 
