@@ -6,9 +6,13 @@ title: Publications
 
 
 
-### Publications
+# Publications
 
-- [Smart Car：Intelligent vision.]()
+## Conference Ppaer
+
+- [DTNet: Dual-encoder generative adversarial network for generating breast cancer immunohistochemical images]()
+Yifan Jia, Guanhua Duan, Yanyunsong, Lan Ye, Zhi Liu 
+
    
   
 
