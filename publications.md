@@ -11,21 +11,31 @@ title: Publications
 ## Conference Ppaer
 
 - [DTNet: Dual-encoder generative adversarial network for generating breast cancer immunohistochemical images]()
+
 Yifan Jia, Guanhua Duan, Yanyunsong, Lan Ye, Zhi Liu 
 
    
   
+## Journal
+- [A Comprehensive Review of Community Detection in Graphs]()
 
-- [Explainable AI.]()
+Jiakang Li†, Songning Lai†, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen Song, Xiaokang Peng, Ziyang Xu, Yongxin Ni, Haifeng Qiu, Jiayu Yang, Yutong Liu, Yonggang Lu~
 
+Accepted in the journal Neurocomputing (JCR Q1 (IF:5.5) CCF C)
 
-- [The virtual staining project is based on the Pix2Pix network.]()
+## Under review Paper
+- [Considering the subspace similarity and textual constraints of IHC images: Overcoming the issue of non-strict symmetry in
+H&E-to-IHC images in virtual staining]()
 
+JCR Q2
 
-- [Calculate spectrum:Designing photonic crystals using neural networks.]()
+- [BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites]()
   
-  Spectral calculation" is currently a very popular research topic, but the engineering of spectral calculation cannot be achieved without the reverse topology of photonic crystals. We use the powerful generalization ability of neural networks to achieve the mapping from spectral response to structural parameters.
- <img src="https://sdujyf.github.io/latest.png" class="floatpic" width="600" height="600">
-  <br>
+
+JCR Q2
+
+## Working Paper
+
+Composite Concept on XAI(target ICLR2025/CVPR 2025)
 
 
