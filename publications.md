@@ -6,7 +6,7 @@ title: Publications
 
 
 
-## Project
+## Publications
 
 - [Smart Car：Intelligent vision.]()
    
