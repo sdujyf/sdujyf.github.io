@@ -19,20 +19,19 @@ title: Publications
 ## Journal
 - [A Comprehensive Review of Community Detection in Graphs]()
 
-Jiakang Li†, Songning Lai†, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen Song, Xiaokang Peng, Ziyang Xu, Yongxin Ni, Haifeng Qiu, Jiayu Yang, Yutong Liu, Yonggang Lu~
+  Jiakang Li†, Songning Lai†, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen Song, Xiaokang Peng, Ziyang Xu, Yongxin Ni, Haifeng Qiu, Jiayu Yang, Yutong Liu, Yonggang Lu~
 
-Accepted in the journal Neurocomputing (JCR Q1 (IF:5.5) CCF C)
+  Accepted in the journal Neurocomputing (JCR Q1 (IF:5.5) CCF C)
 
 ## Under review Paper
 - [Considering the subspace similarity and textual constraints of IHC images: Overcoming the issue of non-strict symmetry in
-H&E-to-IHC images in virtual staining]()
+H&E-to-IHC images in virtual staining(JCR Q2)]()
 
-JCR Q2
 
-- [BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites]()
+- [BERT_PLPS: A BERT-based Model for Predicting Lysine Phosphoglycerylation Sites(JCR Q2)]()
   
 
-JCR Q2
+
 
 ## Working Paper
 
