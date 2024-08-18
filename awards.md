@@ -8,8 +8,8 @@ title: Awards
 
 ## Scholarships
 
-- 2022 信青杯一等奖
-- 2023 SDU学业奖学金三等
-
+- Initial Certification for the Taichu Yuanqi AI Competition
+- Academic Scholarship from Shandong University
+- hird Prize in Asia and Pacific Mathematical Contest in Modeling
 
 
