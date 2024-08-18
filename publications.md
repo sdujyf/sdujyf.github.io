@@ -12,7 +12,7 @@ title: Publications
 
 - [DTNet: Dual-encoder generative adversarial network for generating breast cancer immunohistochemical images]()
 
-Yifan Jia, Guanhua Duan, Yanyunsong, Lan Ye, Zhi Liu 
+   Yifan Jia, Guanhua Duan, Yanyunsong, Lan Ye, Zhi Liu 
 
    
   
