@@ -39,22 +39,32 @@ Looking to the future, I am currently applying for the PHD/Mphil program of 26Fa
 **Yifan Jia**, **Xingda Yu**, Zhengyang Jia, Songning Lai,Yutao Yue
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Immunohistochemistry (IHC) staining plays a significant role
+in the evaluation of diseases such as breast cancer. The H&E-to-IHC
+transformation based on generative models provides a simple and costeffective method for obtaining IHC images. Although previous models
+can perform digital coloring well, they still suffer from (i) coloring only
+through the pixel features that are not prominent in HE, which is easy
+to cause information loss in the coloring process; (ii) The lack of pixelperfect H&E-IHC groundtruth pairs poses a challenge to the classical
+L1 loss.To address the above challenges, we propose an adaptive information enhanced coloring framework based on feature extractors. We
+first propose the VMFE module to effectively extract the color information features using multi-scale feature extraction and wavelet transform convolution, while combining the shared decoder for feature fusion. The high-performance dual feature extractor of H&E-IHC is trained
+by contrastive learning, which can effectively perform feature alignment
+of HE-IHC in high latitude space. At the same time, the trained feature encoder is used to enhance the features and adaptively adjust the
+loss in the HE section staining process to solve the problems related
+to unclear and asymmetric information.
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.09* Academic Scholarship from Shandong University 
+- *2024.12* Third prize in the National Intelligent Car Competition
+- *2023.4* National Third Prize in the Asia-Pacific Mathematical Modeling Competition
+- *2024.7* Second prize of provincial level in mathematical Modeling Contest for college students
 # 📖 Educations
 - *2024.11 - now*,  HKUST(GZ) (Intern)
 - *2022.09 - now*,Shandong University 
+"
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2025.02*,Initial Certification for the Taichu Yuanqi AI Competition.
