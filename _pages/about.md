@@ -60,6 +60,7 @@ to unclear and asymmetric information.
 - *2024.12* Third prize in the National Intelligent Car Competition
 - *2023.4* National Third Prize in the Asia-Pacific Mathematical Modeling Competition
 - *2024.7* Second prize of provincial level in mathematical Modeling Contest for college students
+
 # 📖 Educations
 - *2024.11 - now*,  HKUST(GZ) (Intern)
 - *2022.09 - now*,Shandong University 
