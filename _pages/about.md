@@ -38,7 +38,7 @@ Looking to the future, I am currently applying for the PHD/Mphil program of 26Fa
 
 **Yifan Jia**, **Xingda Yu**, Zhengyang Jia, Songning Lai,Yutao Yue
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Immunohistochemistry (IHC) staining plays a significant role
 in the evaluation of diseases such as breast cancer. The H&E-to-IHC
 transformation based on generative models provides a simple and costeffective method for obtaining IHC images. Although previous models
@@ -62,7 +62,7 @@ Constraint Framework for Biomedical VQA](https://arxiv.org/pdf/2503.02476)
 
 Zhengyang Ji,  Shang Gao, Li Liu,  Yifan Jia,Yutao Yue
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://arxiv.org/pdf/2503.02476) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Biomedical visual question answering (VQA) has been widely
 studied and has demonstrated significant application value and potential
 in fields such as assistive medical diagnosis. Despite their success, current
