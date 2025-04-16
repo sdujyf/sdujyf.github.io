@@ -54,6 +54,40 @@ to unclear and asymmetric information.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BioD2C: A Dual-level Semantic Consistency
+Constraint Framework for Biomedical VQA](https://arxiv.org/pdf/2503.02476)
+
+Zhengyang Ji,  Shang Gao, Li Liu,  Yifan Jia,Yutao Yue
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Biomedical visual question answering (VQA) has been widely
+studied and has demonstrated significant application value and potential
+in fields such as assistive medical diagnosis. Despite their success, current
+biomedical VQA models perform multimodal information interaction
+only at the model level within large language models (LLMs), leading to
+suboptimal multimodal semantic alignment when dealing with complex
+tasks. To address this issue, we propose BioD2C: a novel
+Dual-level Semantic Consistency Constraint Framework for Biomedical VQA, which
+achieves dual-level semantic interaction alignment at both the model
+and feature levels, enabling the model to adaptively learn visual features
+based on the question. Specifically, we firstly integrate textual features
+into visual features via an image-text fusion mechanism as feature-level
+semantic interaction, obtaining visual features conditioned on the given
+text; and then introduce a text-queue-based cross-modal soft semantic
+loss function to further align the image semantics with the question semantics. Specifically, in this work, we establish a new dataset, BioVGQ,
+to address inherent biases in prior datasets by filtering manually-altered
+images and aligning question-answer pairs with multimodal context, and
+train our model on this dataset. Extensive experimental results demonstrate that BioD2C achieves state-of-the-art (SOTA) performance across
+multiple downstream datasets, showcasing its robustness, generalizability, and potential to advance biomedical VQA research. The source code
+of this work and the BioVGQ dataset can be accessed through code and
+dataset.
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2023.09* Academic Scholarship from Shandong University 
