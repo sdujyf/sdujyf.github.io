@@ -34,7 +34,7 @@ Looking to the future, I am currently applying for the PHD/Mphil program of 26Fa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mmkc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models](https://arxiv.org/pdf/2502.20156)
+[Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models](https://arxiv.org/pdf/2505.19509)
 
 **Yifan Jia**, **Kailin Jiang**, Yuyang Liang, Qihan Ren,Yi Xin, Rui Yang, Fenze Feng, Mingcai Chen, Hengyang Lu, Haozhe Wang, Xiaoye Qu, Dongrui Liu, Lizhen Cui, Yuntao Du
 
@@ -110,10 +110,11 @@ dataset.
 - *2024.7* Second prize of provincial level in mathematical Modeling Contest for college students
 
 # 📖 Educations
-- *2024.11 - now*,  HKUST(GZ) (Intern)
+- *2024.11 - 2025.5*,  HKUST(GZ) (Intern)
 - *2022.09 - now*,Shandong University 
 "
 
 
 # 💻 Internships
 - *2024.05 - 2025.02*,Initial Certification for the Taichu Yuanqi AI Competition.
+- *2024.05 - now*,AI Engineer,HUAWEI
