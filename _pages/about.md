@@ -19,7 +19,7 @@ redirect_from:
 
 Here is Yifan Jia.
 
-I am a junior student studying in the School of Information Science and Engineering(Chongxin College), Shandong University in China,supervised by Prof. Zhi Liu. 
+I am a junior student studying in the School of Information Science and Engineering(Chongxin College), Shandong University in China,supervised by  Zhi Liu and Yuntao Du. 
 My primary research interest lies in the domain of Trustworthy AI and Multi-modal learning.
 
 Specifically, I focus on CBM for explainable AI. My focus is on how CBM can be used to achieve the interpretability of effective AI systems. In addition, I am interested in multimodal learning, which includes the modal missing task and knowledge conflicts for multimodal large models.
