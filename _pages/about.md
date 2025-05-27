@@ -27,6 +27,7 @@ Specifically, I focus on CBM for explainable AI. My focus is on how CBM can be u
 Looking to the future, I am currently applying for the PHD/Mphil program of 26Fall. If you are interested in any aspect of me that I would like to chat about and collaborate with, please email me at sdujyf[at]mail.sdu.edu.cn
 
 # 🔥 News 
+- *2024.07.05*: &nbsp;🎉🎉 Our paper  has been accepted by Neurocomputing
 - *2024.04.19*: &nbsp;🎉🎉 Our paper  has been accepted by 2024 5th International Conference on Computer Vision, Image and Deep Learning (CVIDL)
 
 # 📝 Publications 
@@ -101,7 +102,15 @@ dataset.
 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mmkc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[A comprehensive review of community detection in graphs](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009408)
+
+Jiakang Li, Songning Lai, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen Song, Xiaokang Peng, Ziyang Xu, Yongxin Ni, Haifeng Qiu, Jiayu Yang, Yutong Liu, Yonggang Lu
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.09* Academic Scholarship from Shandong University 
