@@ -65,7 +65,7 @@ Zhengyang Ji,  Shang Gao, Li Liu,  Yifan Jia,Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/is.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/is.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation](https://arxiv.org/pdf/2505.21106)
