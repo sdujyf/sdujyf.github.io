@@ -27,6 +27,7 @@ Specifically, I focus on CBM for explainable AI. My focus is on how CBM can be u
 Looking to the future, I am currently applying for the PHD/Mphil program of 26Fall. If you are interested in any aspect of me that I would like to chat about and collaborate with, please email me at sdujyf[at]mail.sdu.edu.cn
 
 # 🔥 News 
+- *2025.06.18*: &nbsp;🎉🎉 Our paper  has been accepted by MICCAI2025
 - *2024.07.05*: &nbsp;🎉🎉 Our paper  has been accepted by Neurocomputing
 - *2024.04.19*: &nbsp;🎉🎉 Our paper  has been accepted by 2024 5th International Conference on Computer Vision, Image and Deep Learning (CVIDL)
 
@@ -53,7 +54,7 @@ Looking to the future, I am currently applying for the PHD/Mphil program of 26Fa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BioD2C: A Dual-level Semantic Consistency
@@ -61,7 +62,14 @@ Constraint Framework for Biomedical VQA](https://arxiv.org/pdf/2503.02476)
 
 Zhengyang Ji,  Shang Gao, Li Liu,  Yifan Jia,Yutao Yue
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/is.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation](https://arxiv.org/pdf/2505.21106)
+
+**Zhengyang Ji**,  **Yifan Jia**, Shang Gao,Yutao Yue
+</div>
+</div>
 
 </div>
 </div>
