@@ -62,6 +62,9 @@ Constraint Framework for Biomedical VQA](https://arxiv.org/pdf/2503.02476)
 
 Zhengyang Ji,  Shang Gao, Li Liu,  Yifan Jia,Yutao Yue
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/is.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,8 +74,7 @@ Zhengyang Ji,  Shang Gao, Li Liu,  Yifan Jia,Yutao Yue
 </div>
 </div>
 
-</div>
-</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/GRAPH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
