@@ -19,12 +19,13 @@ redirect_from:
 
 Here is Yifan Jia.
 
-I am a junior student studying in the School of Information Science and Engineering(Chongxin College), Shandong University in China,supervised by  Zhi Liu and Yuntao Du. 
-My primary research interest lies in the domain of Trustworthy AI and Multi-modal learning.
+I am a junior student studying in the School of Information Science and Engineering(Chongxin College), Shandong University in China,supervised by  Yuntao Du. 
+My primary research interests focus on multimodal learning, generative models, and interpretability.
 
-Specifically, I focus on CBM for explainable AI. My focus is on how CBM can be used to achieve the interpretability of effective AI systems. In addition, I am interested in multimodal learning, which includes the modal missing task and knowledge conflicts for multimodal large models.
+Specifically, my research focuses on AI systems based on MLLMs, such as RAG and Agents. My previous work has concentrated on knowledge conflicts in MLLMs and prompt/context engineering. At the same time, I am also very interested in generative systems based on multimodal learning, such as T2I, T2V, and 3D generation.I enjoy exploring the essence of things, which makes me very interested in interpretability. I view interpretability as an analytical tool that helps us understand the effectiveness of AI systems, for example, through data attribution.
 
-Looking to the future, I am currently applying for the PHD/Mphil program of 26Fall. If you are interested in any aspect of me that I would like to chat about and collaborate with, please email me at sdujyf[at]mail.sdu.edu.cn
+
+Looking to the future, I am currently applying for the PHD/Mphil program of 26Fall. If you are interested in any aspect of me that I would like to chat about and collaborate with, please email me at 2597077223jyf[at]gmail.com
 
 # 🔥 News 
 - *2025.06.18*: &nbsp;🎉🎉 Our paper  has been accepted by MICCAI2025
@@ -43,12 +44,12 @@ Looking to the future, I am currently applying for the PHD/Mphil program of 26Fa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive H&E-IHC information fusion staining framework based on feature extractor](https://arxiv.org/pdf/2502.20156)
+[AAttributing Data for Sharpness-Aware Minimization](https://arxiv.org/pdf/2507.04059)
 
-**Yifan Jia**, **Xingda Yu**, Zhengyang Jia, Songning Lai,Yutao Yue
+**Chenyang Ren**, **Yifan Jia**,**Huanyi Xie**, Zhaobin Xu, Tianxing Wei, Liangyu Wang, Lijie Hu, Di Wang
 
 
 </div>
@@ -94,7 +95,7 @@ Jiakang Li, Songning Lai, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen
 # 📖 Educations
 - *2024.11 - 2025.5*,  HKUST(GZ) (Intern)
 - *2022.09 - now*,Shandong University 
-"
+
 
 
 # 💻 Internships
