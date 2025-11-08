@@ -28,13 +28,14 @@ Specifically, my research focuses on AI systems based on MLLMs, such as RAG and 
 Looking to the future, I am currently applying for the PHD/Mphil program of 26Fall. If you are interested in any aspect of me that I would like to chat about and collaborate with, please email me at 2597077223jyf[at]gmail.com
 
 # 🔥 News 
-- *2025.06.18*: &nbsp;🎉🎉 Our paper  has been accepted by MICCAI2025
-- *2024.07.05*: &nbsp;🎉🎉 Our paper  has been accepted by Neurocomputing
-- *2024.04.19*: &nbsp;🎉🎉 Our paper  has been accepted by 2024 5th International Conference on Computer Vision, Image and Deep Learning (CVIDL)
+- *2025.11.08*: &nbsp;🎉🎉 One paper have been accepted by AAAI 2026 Oral! 
+- *2025.06.18*: &nbsp;🎉🎉 Our paper  has been accepted by MICCAI2025!
+- *2024.07.05*: &nbsp;🎉🎉 Our paper  has been accepted by Neurocomputing!
+- *2024.04.19*: &nbsp;🎉🎉 Our paper  has been accepted by 2024 5th International Conference on Computer Vision, Image and Deep Learning (CVIDL)!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mmkc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/mmkc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models](https://arxiv.org/pdf/2505.19509)
