@@ -48,7 +48,7 @@ Looking to the future, I am currently applying for the PHD/Mphil program of 26Fa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AAttributing Data for Sharpness-Aware Minimization](https://arxiv.org/pdf/2507.04059)
+[Atributing Data for Sharpness-Aware Minimization](https://arxiv.org/pdf/2507.04059)
 
 **Chenyang Ren**, **Yifan Jia**,**Huanyi Xie**, Zhaobin Xu, Tianxing Wei, Liangyu Wang, Lijie Hu, Di Wang
 
@@ -64,6 +64,16 @@ Constraint Framework for Biomedical VQA](https://arxiv.org/pdf/2503.02476)
 
 Zhengyang Ji,  Shang Gao, Li Liu,  Yifan Jia,Yutao Yue
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mined.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MINED: PROBING AND UPDATING WITH MULTIMODAL TIME-SENSITIVE KNOWLEDGE FOR LARGE MULTI-
+MODAL MODELS](https://arxiv.org/pdf/2510.19457)
+
+Kailin Jiang,Ning Jiang,Yuntao Du,Yuchen Ren,Yuchen Li,Yifan Gao,Jinhe Bi,Yunpu Ma,Qingqing Liu,Xianhao Wang,**Yifan Jia**,Hongbo Jiang,Yaocong Hu,Bin Li,Lei Liu
 </div>
 </div>
 
@@ -95,10 +105,11 @@ Jiakang Li, Songning Lai, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen
 
 # 📖 Educations
 - *2024.11 - 2025.5*,  HKUST(GZ) (Intern)
+- *2025.07 - 2025.10*,  Westlake University (Intern)
 - *2022.09 - now*,Shandong University 
 
 
 
 # 💻 Internships
 - *2024.05 - 2025.02*,Initial Certification for the Taichu Yuanqi AI Competition.
-- *2024.05 - now*,AI Engineer,HUAWEI
+- *2025.05 - 2025.06*,AI Engineer,HUAWEI
