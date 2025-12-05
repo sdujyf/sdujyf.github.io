@@ -113,3 +113,6 @@ Jiakang Li, Songning Lai, Zhihao Shuai, Yuan Tan, Yifan Jia, Mianyang Yu, Zichen
 # 💻 Internships
 - *2024.05 - 2025.02*,Initial Certification for the Taichu Yuanqi AI Competition.
 - *2025.05 - 2025.06*,AI Engineer,HUAWEI
+
+# 💻 Invited talks
+- *2024.12.05* Give a talk ai wisemodel community
