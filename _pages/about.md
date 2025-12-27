@@ -187,5 +187,9 @@ My research journey focuses on the intersection of **Multimodal Learning**, **VL
 * **2025.07 - 2025.10** Research Intern @ **Westlake University**
 * **2024.11 - 2025.05** Research Intern @ **HKUST (GZ)**
 
+# 🗣️ Invited talks
+* **2024.12.05** Give a talk about knowledge conflict at ai wisemodel community
+
+
 # 📊 Stats
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Follow-blue?logo=google-scholar&style=flat-square) 
