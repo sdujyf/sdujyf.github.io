@@ -168,7 +168,7 @@ My research journey focuses on the intersection of **Multimodal Learning**, **Ge
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">MICCAI 2025</div><img src='images/is.png' alt="paper thumbnail"></div>
+    <div><div class="badge">Preprint</div><img src='images/is.png' alt="paper thumbnail"></div>
   </div>
   <div class='paper-box-text'>
     <a class="paper-title">Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation</a>
