@@ -110,9 +110,9 @@ redirect_from:
 
 # 👋 About Me
 
-I am **Yifan Jia**, a junior student at the School of Information Science and Engineering (Chongxin College), **Shandong University**. I am supervised by [Yuntao Du](https://scholar.google.com/citations?user=your_id).
+I am **Yifan Jia**, a final year student at the School of Information Science and Engineering (Chongxin College), **Shandong University**. I am supervised by [Yuntao Du](https://faculty.sdu.edu.cn/duyuntao1/zh_CN/index.html).
 
-My research journey focuses on the intersection of **Multimodal Learning**, **Generative Models**, and **Interpretability**. I am particularly interested in how MLLMs handle knowledge conflicts and how data attribution can explain model behavior.
+My research journey focuses on the intersection of **Multimodal Learning**, **VLM**, and **Interpretability**. I am particularly interested in how MLLMs handle knowledge conflicts and how data attribution can explain model behavior.
 
 **🚀 I am actively seeking PhD/MPhil positions for Fall 2026!** If you're interested in collaborating, feel free to reach out via [2597077223jyf@gmail.com](mailto:2597077223jyf@gmail.com).
 
