@@ -149,7 +149,7 @@ My research journey focuses on the intersection of **Multimodal Learning**, **Ge
   </div>
   <div class='paper-box-text'>
     <a class="paper-title">Attributing Data for Sharpness-Aware Minimization</a>
-    Chenyang Ren, <span class="me">Yifan Jia</span>, Huanyi Xie, Zhaobin Xu, et al. <br>
+    Chenyang Ren*, <span class="me">Yifan Jia*</span>, Huanyi Xie, Zhaobin Xu, et al. <br>
     <a href="https://arxiv.org/pdf/2507.04059" class="btn-pub">PDF</a>
     <a href="#" class="btn-pub">Poster</a>
   </div>
@@ -166,10 +166,21 @@ My research journey focuses on the intersection of **Multimodal Learning**, **Ge
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">MICCAI 2025</div><img src='images/is.png' alt="paper thumbnail"></div>
+  </div>
+  <div class='paper-box-text'>
+    <a class="paper-title">Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation</a>
+    Zhengyang Ji*,  <span class="me">Yifan Jia*</span>, Shang Gao,Yutao Yue, Yutao Yue <br>
+    <a href="https://arxiv.org/pdf/2503.02476" class="btn-pub">PDF</a>
+  </div>
+</div>
 # 🎖 Honors and Awards
 * **2023.09** Academic Scholarship, Shandong University
-* **2024.12** 🥉 Third Prize, National Intelligent Car Competition
-* **2023.04** 🥉 National Third Prize, Asia-Pacific Mathematical Modeling Competition
+* **2024.12**  Third Prize, National Intelligent Car Competition
+* **2023.04**  National Third Prize, Asia-Pacific Mathematical Modeling Competition
+* **2024.07** Second prize of provincial level in mathematical Modeling Contest for college students
 
 # 💻 Internships
 * **2025.05 - 2025.06** AI Engineer @ **HUAWEI**
@@ -178,4 +189,3 @@ My research journey focuses on the intersection of **Multimodal Learning**, **Ge
 
 # 📊 Stats
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Follow-blue?logo=google-scholar&style=flat-square) 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=007bff&style=flat-square)
